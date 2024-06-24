@@ -1,7 +1,7 @@
 --[[
 --
--- This file is not required for your own configuration,
--- but helps people determine if their system is setup correctly.
+-- A file to help determine if the system is setup correctly.
+-- This file is not required.
 --
 --]]
 
